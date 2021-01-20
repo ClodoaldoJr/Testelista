@@ -8,7 +8,7 @@ namespace Teste
         {
             int i, choice, sum = 0;
             string input = "";
-            string[] products = new string[7] { "Pão", "Leite", "Refrigerante", "Carne", "Café", "Suco", "Açucar" };
+            string[] products = new string[7] { "Pão", "Leite", "Refrigerante", "Carne", "Café", "Suco", "Sal" };
             int[] prices = new int[7] { 1, 2, 2, 5, 4, 6, 3 };
 
             Console.WriteLine("This is a list of shop products:");
